@@ -62,4 +62,34 @@
     right: 0%;
     bottom:40%;
 }
-g.{}
+.g{
+    position: absolute;
+    background-color: azure;
+    height: 41%;
+    width: 30%;
+    border: 10px solid;
+    right: 0%;
+    bottom: 0%;
+}
+.h{
+    position: absolute;
+    background-color: navy;
+    height: 25%;
+    width:  30%;
+    border: 10px solid;
+    bottom: 16%;
+    right: 30%;
+    
+
+    
+}
+.i{
+    position: absolute;
+    border: 10px solid;
+    right: 30%;
+    width: 30%;
+    bottom: 0%;
+    height: 16%;
+    background-color: azure;
+
+}
