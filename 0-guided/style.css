@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    position: relative;
+    border: 10px solid;
+    min-height: 100vh;
+    margin: 5%;
+
+}
+.a{
+    position: absolute;
+    background-color: #b33a27;
+    border: 10px solid;
+    height:40%;
+    width: 40%;
+}
+.b{
+    position: absolute;
+    background-color: azure;
+    height:24%;
+    width: 40%;
+    border: 10px solid;
+    bottom:40%;
+}
+.c{
+    position: absolute;
+    background-color: #f0c432;
+    border: 10px solid;
+    height: 41%;
+    bottom: 0%;
+    width: 15%;
+}
+.d{ 
+    position: absolute;
+    border: 10px solid;
+    background-color: azure;
+    width:25%;
+    bottom: 0%;
+    left:15%;
+    height: 41%;
+
+}
+.e{
+    position: absolute;
+    border: 10px solid;
+    background-color: azure;
+    width: 60%;
+    height:37%;
+    right:0%;
+    top: 0%;
+}
+.f{
+    position: absolute;
+    background-color: azure;
+    height:24%;
+    width: 60%;
+    border: 10px solid;
+    right: 0%;
+    bottom:40%;
+}
+g.{}
