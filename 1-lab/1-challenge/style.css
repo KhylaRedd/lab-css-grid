@@ -185,7 +185,7 @@
     background-color: #c92418;
     border: 8px solid;
     width: 17%;
-    left: 27%;
+    left: 28%;
     bottom: 32%;
     height: 13%;
 
@@ -245,12 +245,35 @@
 
 }
 .childtwentyeight{
+    background-color: white;
     border: 8px solid;
     position: absolute;
-
-    width: 7%;
+    bottom: 0%;
+    width: 22%;
+    height: 8%;
 
 }
+.childtwentynine{
+    position: absolute;
+    width: 7%;
+    border: 8px solid;
+    bottom: 0%;
+    height: 33%;
+    left: 21%;
+    background-color: gold;
+}
+.childthirty{
+    position: absolute;
+    border: 8pxx soli;
+    bottom: 0%;
+    height: 33%;
+    left: 
+
+}
+.childthirty{}
+.childthirtyone{}
+.childthirtytwo{}
+.childthirtythree{}
 
 .row2{
     display: grid;
